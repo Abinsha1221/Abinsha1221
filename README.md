@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Abinsha1221
-- 👀 I’m interested in Program learning,coding..
-- 🌱 I’m currently learning CSE with AI and ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on ig @abin.sha_
-     Email id- abinsha1221@gmail.com
-<!---
-Abinsha1221/Abinsha1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Abinsha N** (@Abinsha1221)  
+- 🚀 Aspiring **Software Engineer & AI Enthusiast**  
+- 👀 Interested in **Deep Learning**, **AI-driven solutions**, and **full-stack development**  
+- 🌱 Currently pursuing **B.Tech CSE (AI & ML)** and building real-world projects  
+- 💡 Exploring **computer vision**, **pose estimation**, and **gait authentication systems**  
+- 🤝 Looking to collaborate on **AI/ML research**, **open-source projects**, and **tech startups**  
+- 📫 Let's connect:  
+  - **Instagram:** [@abin.sha_](https://instagram.com/abin.sha_)  
+  - **Email:** abinsha1221@gmail.com  
+  - **LinkedIn:** [Abinsha N](https://www.linkedin.com/in/abinsha-n-0840a9255)
