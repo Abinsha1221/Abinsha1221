@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Abinsha N** (@Abinsha1221)  
 - 🚀 Aspiring **Software Engineer & AI Enthusiast**  
 - 👀 Interested in **Deep Learning**, **AI-driven solutions**, and **full-stack development**  
-- 🌱 Currently pursuing **B.Tech CSE (AI & ML)** and building real-world projects  
+- 🌱 B.Tech CSE (AI & ML) Graduate building real-world projects  
 - 💡 Exploring **computer vision**, **pose estimation**, and **gait authentication systems**  
 - 🤝 Looking to collaborate on **AI/ML research**, **open-source projects**, and **tech startups**  
 - 📫 Let's connect:  
